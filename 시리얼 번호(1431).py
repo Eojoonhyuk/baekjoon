@@ -2,8 +2,7 @@ import re
 
 n = int(input())
 guitar_list = []
-a = 0
-b = 0
+
 for i in range(n):
     serial_num = input()
     guitar_list.append(serial_num)
